@@ -40,6 +40,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 	- [ ] error mark
 	- [ ] arrows
 	- [ ] font
+- [ ] Api's
+    - [ ] save online
+    - [ ] save on localstorage
+    - [ ] save as json to export
+- [ ] Do I want to make an exact copy or change things? Start out with copy and then add chagnes? alternative version?
 
 ## React Info
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

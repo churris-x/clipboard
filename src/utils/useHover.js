@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from 'react';
 
 /* How to use:
 function App() {
+  const componentRef = useRef(null);
   const [componentRef, hoverRef] = useHover();
 
   return (

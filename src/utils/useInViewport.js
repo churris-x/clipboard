@@ -1,5 +1,18 @@
 import { useEffect, useMemo, useState } from 'react';
 
+/* How to use:
+function App() {
+  const componentRef = useRef(null);
+  const isIntersecting = useInViewport(componentRef);
+
+  return (
+    <div ref={componentRef}>
+      {isIntersecting ? 'Intersecting!' : 'not intersecting...'}
+    </div>
+  );
+}
+*/
+
 export const useInViewport = (ref) => {
   const [isIntersecting, set_isIntersecting] = useState(false);
 

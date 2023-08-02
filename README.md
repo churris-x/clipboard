@@ -26,7 +26,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## To do
 
-- [ ] Write new todos
+- [ ] Write new tasks
 - [ ] mark them as done, not done 
 - [ ] Cycle between pages
 - [ ] Save data on local storage
